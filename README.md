@@ -9,7 +9,7 @@ Vertical Privilege Escalation
 Horizontal Privilege Escalation
 Multi-level Privilege Escalation
 
-##Networking
+#Networking
 
 DHCP service: Enabled
 IP address: Automatically assign
